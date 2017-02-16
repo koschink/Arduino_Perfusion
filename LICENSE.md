@@ -2,10 +2,6 @@ BSD 3-Clause License
 
 Copyright (c) 2017, Kay Oliver Schink
 
-URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4357733/
-
-Citation: Helgesen et al, Nucleic Acid Research, 2015
-
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
