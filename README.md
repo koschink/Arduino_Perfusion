@@ -1,4 +1,4 @@
-# Arduiono_perfusion
+# Arduino Perfusion
 Controlling a perfusion setup using an Arduino Uno and PyFirmata
 
 Python scripts and wiring diagram to control a Warner Scientifc perfusion apparatus using PyFirmata and Python.
